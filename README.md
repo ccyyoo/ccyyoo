@@ -2,15 +2,11 @@
 
 ### `01` — SIGNALS I TRACK
 
-**Training & Inference** — Model training · Inference systems
-
-**Compilers & Kernels** — JAX · XLA · Kernel optimization
-
-**Cluster Scheduling** — Resource orchestration · Distributed systems
-
-**Attention Architectures** — MLA · KDA · CSA · HCA
-
-**Serving Ecosystem** — vLLM · SGLang · Mooncake
+![Training & Inference](https://img.shields.io/badge/Training_%26_Inference-Model_%C2%B7_Inference_systems-0B6E99?style=flat-square)
+![Compilers & Kernels](https://img.shields.io/badge/Compilers_%26_Kernels-JAX_%C2%B7_XLA_%C2%B7_Kernel_optimization-5B4FC7?style=flat-square)
+![Cluster Scheduling](https://img.shields.io/badge/Cluster_Scheduling-Resource_orchestration_%C2%B7_Distributed_systems-189E76?style=flat-square)
+![Attention Architectures](https://img.shields.io/badge/Attention_Architectures-MLA_%C2%B7_KDA_%C2%B7_CSA_%C2%B7_HCA-C2761B?style=flat-square)
+![Serving Ecosystem](https://img.shields.io/badge/Serving_Ecosystem-vLLM_%C2%B7_SGLang_%C2%B7_Mooncake-B5487A?style=flat-square)
 
 ### `02` — WHAT I DO
 
