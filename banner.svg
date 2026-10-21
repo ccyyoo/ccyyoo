@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250">
+<rect width="960" height="250" rx="18" fill="#0d1117"/>
+<text x="36" y="38" font-family="Menlo,Consolas,monospace" font-size="14" fill="#8b949e">~/cyndi</text>
+<rect x="96" y="25" width="9" height="17" fill="#3fb950"/>
+<circle cx="852" cy="33" r="5" fill="#3fb950"/>
+<text x="864" y="38" font-family="Menlo,Consolas,monospace" font-size="13" fill="#3fb950">SYSTEM ONLINE</text>
+<text x="36" y="122" font-family="Menlo,Consolas,monospace" font-size="46" font-weight="bold" fill="#e6edf3">Cyndi Chen</text>
+<text x="38" y="156" font-family="Menlo,Consolas,monospace" font-size="16" fill="#58a6ff" letter-spacing="1.5">AI INFRA TALENT ROUTER &#183; TENCENT &#183; SHENZHEN</text>
+<text x="38" y="182" font-family="Menlo,Consolas,monospace" font-size="13" fill="#8b949e">&#20013;&#25991; / English both fine</text>
+<g font-family="Menlo,Consolas,monospace" font-size="13">
+<rect x="600" y="52" width="324" height="32" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="620" y="73" fill="#e3b341">DAY</text>
+<text x="690" y="73" fill="#c9d1d9">SOURCE TALENT</text>
+<rect x="600" y="92" width="324" height="32" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="620" y="113" fill="#58a6ff">NIGHT</text>
+<text x="690" y="113" fill="#c9d1d9">REVIEW POIs</text>
+<rect x="600" y="132" width="324" height="32" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="620" y="153" fill="#3fb950">ALWAYS</text>
+<text x="690" y="153" fill="#c9d1d9">DEBUG THE PIPELINE</text>
+</g>
+</svg>
