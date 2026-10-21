@@ -2,13 +2,15 @@
 
 ### `01` — SIGNALS I TRACK
 
-| DOMAIN | SIGNALS |
-|:--|:--|
-| **Training & Inference** | Model training · Inference systems |
-| **Compilers & Kernels** | JAX · XLA · Kernel optimization |
-| **Cluster Scheduling** | Resource orchestration · Distributed systems |
-| **Attention Architectures** | MLA · KDA · CSA · HCA |
-| **Serving Ecosystem** | vLLM · SGLang · Mooncake |
+**Training & Inference** — Model training · Inference systems
+
+**Compilers & Kernels** — JAX · XLA · Kernel optimization
+
+**Cluster Scheduling** — Resource orchestration · Distributed systems
+
+**Attention Architectures** — MLA · KDA · CSA · HCA
+
+**Serving Ecosystem** — vLLM · SGLang · Mooncake
 
 ### `02` — WHAT I DO
 
